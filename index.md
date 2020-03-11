@@ -3,6 +3,18 @@ Olá, tudo bem?
 
 Esse é um resumo sobre como a API da Mundipagg funciona.
 
+## Cadastrando em Sadnbox
+
+Existem 2 maneiras de conseguir criar uma loja e testar a Mundipagg.
+* Atrasvés do Site da Mundipagg
+* Atrvés da documentação
+
+### Passo a Passo:
+- Criar loguin
+- Criar loja
+- Acessar loja de Teste
+- Pegar credenciais de teste
+
 ## Estrutura da API
 A API possui uma estrutura que deve ser entendida para facilitar o desenvolvimento.
 
